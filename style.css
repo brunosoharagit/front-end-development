@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin-bottom: 30px;
+}
+
+aside{
+    margin-top: 40px;
+}
+
+/*class products*/
+.products{
+    margin-top: auto;
+    margin-right: 250px;
+    margin-left: 250px;
+
+    padding: 20px;
+
+    background: lightsteelblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+/*class client_comments*/
+.client_comments{
+    
+}
+
